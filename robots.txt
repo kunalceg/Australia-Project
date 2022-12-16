@@ -1,0 +1,11 @@
+# robots.txt 
+User-agent: *
+Disallow: 
+User-agent: *
+Disallow: 
+User-agent: *
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://www.trans-planttraining.com.au/sitemap.xml
