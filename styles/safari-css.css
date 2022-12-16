@@ -1,0 +1,22 @@
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+/* Safari only override */
+::i-block-chrome,.top_bar{padding-top:10px !important;}
+::i-block-chrome,.top_bar_contact_list{float:left !important; margin-top: 10px;}
+::i-block-chrome,.top_bar_login {float: right !important;}
+::i-block-chrome,.logo_container{width:200px !important; float:left !important;}
+::i-block-chrome,nav.main_nav_contaner{margin-right: 0px !important;}
+::i-block-chrome,.header_container{padding-top:10px !important;}
+::i-block-chrome,.home_slider_container {background:transparent !important;}
+::i-block-chrome,.top-courses_row .courses_row .col-lg-4{float:left !important;}
+::i-block-chrome,.fixed-time-fee .featured_sales{float:left;}
+::i-block-chrome,.fixed-time-fee .course_price{float:right;}
+::i-block-chrome,.summer-skills-courses-wrap-home .col-lg-4{float:left;}
+::i-block-chrome,.footer .footer_col{float:left;}
+::i-block-chrome,.course_image img {height:250px;}
+::i-block-chrome,.main_nav{margin-top: 26px;}
+::i-block-chrome,.scrolled .main_nav{margin-top: 0px;}
+::i-block-chrome,.header.scrolled {top: -72px;}
+
+}
+
+
